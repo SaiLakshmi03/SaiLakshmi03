@@ -1,4 +1,4 @@
-- 👋 Hi, I’m SaiLakshmi Nasina
+- 👋 Hi, I’m Sai Lakshmi Nasina
 - 👀 I’m interested in Data Analytics domain as current trends in data analytics that are shaping the industry, currently working as PowerBI Developer including Analysis, Understanding the requirements and Development
 - 🌱 I’m currently learning (Python,Microsoft Azure)
 - 📫 sailanasina@gmail.com
